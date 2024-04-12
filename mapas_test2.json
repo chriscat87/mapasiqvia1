@@ -5,24 +5,24 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "nombre": "Quito",
+        "nombre": "FAR.FARESA #3 (N)",
         "poblacion": 2741750
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.6564, 0.1831]
+        "coordinates": [-2.19097542729402, -79.96639558]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "id": 2,
-        "nombre": "Guayaquil",
+        "nombre": "FAR.SANTISIMA VIRGEN DEL CISNE",
         "poblacion": 2303932
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.8417, -2.1746]
+        "coordinates": [-2.166518688, -79.79396057]
       }
     }
   ]
