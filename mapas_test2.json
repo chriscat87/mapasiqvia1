@@ -1,46 +1,28 @@
 {
   "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "EPSG:4326"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-78.7012, -0.9000],  // Quito (Oeste)
-            [-78.4688, -0.9000],  // Quito (Este)
-            [-78.4688, -0.9800],  // Quito (Sur)
-            [-78.7012, -0.9800],  // Quito (Norte)
-            [-78.7012, -0.9000]   // Cerrar polígono
-          ]
-        ]
-      },
       "properties": {
-        "ciudad": "Quito"
+        "id": 1,
+        "nombre": "Quito",
+        "poblacion": 2741750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.6564, 0.1831]
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-80.8900, -2.2200],  // Guayaquil (Oeste)
-            [-80.7800, -2.2200],  // Guayaquil (Este)
-            [-80.7800, -2.2700],  // Guayaquil (Sur)
-            [-80.8900, -2.2700],  // Guayaquil (Norte)
-            [-80.8900, -2.2200]   // Cerrar polígono
-          ]
-        ]
-      },
       "properties": {
-        "ciudad": "Guayaquil"
+        "id": 2,
+        "nombre": "Guayaquil",
+        "poblacion": 2303932
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8417, -2.1746]
       }
     }
   ]
