@@ -50,17 +50,9 @@
         ]
       ]
     },"properties":{"name":"1001","stroke-opacity":1,"stroke":"#ff0000","fill-opacity":0,"BRICKS":"1001","Shape_Leng":"1695.74396442000","Shape_Area":"60799.21522560000","DESCRIPCI":"1001"}},
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 14410,
-        "nombre": "FAR.SANTISIMA VIRGEN DEL CISNE",
-        "poblacion": 2303932
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-2.166518688, -79.79396057]
-      }
-    }
-  ]
+    ,
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-79.90820816087324,-2.1922806876043643],[-79.9125666844265,-2.191363116963768],[-79.91298891639572,-2.192672004495207],[-79.90854867052585,-2.1936435498793676],[-79.90820816087324,-2.1922806876043643]]]},"properties":{"name":"1002","stroke-opacity":1,"stroke":"#ff0000","fill-opacity":0,"BRICKS":"1002","Shape_Leng":"1308.51216805000","Shape_Area":"76991.16731619999","DESCRIPCI":"1002"}
+},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-79.90820816087324,-2.1922806876043643],[-79.90854867052585,-2.1936435498793676],[-79.90429911006143,-2.194601601577637],[-79.90394498002271,-2.1931847645590694],[-79.90820816087324,-2.1922806876043643]]]},"properties":{"name":"1003","stroke-opacity":1,"stroke":"#ff0000","fill-opacity":0,"BRICKS":"1003","Shape_Leng":"1283.62193623000","Shape_Area":"76001.55627580000","DESCRIPCI":"1003"
+}}
 }
